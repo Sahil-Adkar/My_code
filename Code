@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="home.css">
+  <script src="https://kit.fontawesome.com/64c791f90e.js" crossorigin="anonymous"></script>
+
+  <title></title>
+</head>
+
+<body>
+  <section>
+    <div class="container">
+      <header>
+        <a class="logo" href="#">Logo</a>
+        <ul>
+          <li><a href="#" class="active">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </header>
+      <div class="content">
+        <h2>My Name</h2>
+        <p>Too apna tution ka lafada sa phaila free hoja phir dhekta hai "mireclaous👩🐞Aara srijan mai terako bahut time sa batana bhool gaya(matlab itna bhee nahi buss 2 din sa bho</p>
+        <a href="#">Read More</a>
+      </div>
+      <div class="imgbox">
+        <img src="character.png" alt="">
+      </div>
+      <div class="soc">
+        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+        <a href="#"><i id="yt" class="fa-brands fa-youtube"></i></a>
+        <a href="#"><i id="tw" class="fa-brands fa-twitter"></i></a>
+      </div>
+      <div class="copy">
+        <p>Copyright C 2022 Sahil Adkar. All Rights Recived</p>
+      </div>
+    </div>
+  </section>
+
+</body>
+
+</html>
